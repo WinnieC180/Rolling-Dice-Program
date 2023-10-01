@@ -1,0 +1,30 @@
+div {
+    background-color: rgb(132, 200, 255);
+    border-radius: 10px;
+    margin: auto;
+    width: 60%;
+    margin-top: 80px;
+    border: 3px solid rgb(37, 97, 146);
+    padding: 20px 20px 80px 20px;
+}
+
+header {
+    font-size: xx-large;
+    color:rgb(31, 52, 110); 
+    margin-top: 80px; 
+    text-align: center;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 30%;
+    height: 8vh;
+    border: 3px solid rgb(81, 142, 192);
+    background-color: rgb(195, 226, 255);
+    border-radius: 10px;
+    color:rgb(31, 52, 110); 
+    font-size: medium;
+}
