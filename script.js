@@ -15,5 +15,5 @@ function rollDice() {
     var num2 = randomNum();
     one.textContent = `Dice #1 value: ${num1}`;
     two.textContent = `Dice #2 value: ${num2}`;
-    all.textContent = `Dice #3 value: ${num1 + num2}`;
+    all.textContent = `Total value: ${num1 + num2}`;
 }
